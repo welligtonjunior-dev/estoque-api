@@ -1,5 +1,0 @@
-$kind: http-request
-name: /
-url: "{{url}}"
-method: GET
-order: 1000
